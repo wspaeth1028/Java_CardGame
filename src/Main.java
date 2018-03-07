@@ -8,6 +8,7 @@ import java.io.*;
  * class to hold all methods relevant to all players, such as determining player turn,
  * set next player turn, and whether or not to keep playing. 
  * Also holds entry point for program, main()
+ * adding another comment
  */
 public class Main {
 
